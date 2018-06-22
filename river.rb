@@ -1,8 +1,7 @@
 # river.rb
 class River 
-  def initialize(name, length)
+  def initialize(name)
     @name = name
-    @length = length
   end
   def name
     return @name
