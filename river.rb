@@ -6,5 +6,6 @@ class River
   end
   def name(river_name)
     return @name
+  end
     
 end
