@@ -48,4 +48,5 @@ class River
     @name = "The Nile"
     @length = "4,258 miles"
     @countries = "Egypt, Sudan, South Sudan, Uganda"
+    @discharge = 
 end
