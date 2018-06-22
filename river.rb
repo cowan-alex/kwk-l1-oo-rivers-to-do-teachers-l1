@@ -46,5 +46,6 @@ class River
   
   def the_nile
     @name = "The Nile"
-    @length = 
+    @length = "4,258 miles"
+    @countries = 
 end
