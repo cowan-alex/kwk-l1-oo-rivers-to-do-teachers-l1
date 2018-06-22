@@ -45,5 +45,6 @@ class River
   end
   
   def the_nile
-    
+    @name = "The Nile"
+    @length = 
 end
