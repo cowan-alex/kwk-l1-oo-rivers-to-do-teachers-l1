@@ -41,6 +41,6 @@ class River
   end
   
   def dries_up
-    @discharge = 
+    @discharge = (100000+100000/50)
   
 end
