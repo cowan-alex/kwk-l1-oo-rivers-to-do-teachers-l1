@@ -14,4 +14,8 @@ class River
   
   def length 
     return @length
+  end
+  
+  def length=(length)
+    @length = length
 end
