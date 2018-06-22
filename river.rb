@@ -20,12 +20,12 @@ class River
     @length = length
   end
   
-  def country
-    return @country
+  def countries
+    return @countries
   end
   
-  def country=(country)
-    @country = country
+  def countries=(countries)
+    @countries = countries
   end
   
 end
