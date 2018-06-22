@@ -3,6 +3,7 @@ class River
   def initialize(name)
     @name = name
   end
+  
   def name
     return @name
   end
@@ -10,5 +11,7 @@ class River
   def name=(name)
     @name = name
   end
-    
+  
+  def length 
+    return @length
 end
