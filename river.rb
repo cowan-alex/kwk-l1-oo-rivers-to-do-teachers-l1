@@ -4,5 +4,7 @@ class River
     @name = name
     @length = length
   end
+  def name(river_name)
+    return @name
     
 end
