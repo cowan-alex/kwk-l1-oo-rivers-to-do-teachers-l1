@@ -18,4 +18,6 @@ class River
   
   def length=(length)
     @length = length
+  end
+  
 end
