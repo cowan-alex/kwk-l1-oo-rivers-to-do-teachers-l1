@@ -28,4 +28,12 @@ class River
     @countries = countries
   end
   
+  def discharge
+    return @discharge
+  end
+  
+  def discharge=(discharge)
+    @discharge = discharge
+  end
+  
 end
